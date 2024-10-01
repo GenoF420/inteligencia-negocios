@@ -11,8 +11,8 @@
   DTS:LocaleID="13322"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="7"
-  DTS:VersionGUID="{4C4C5DCC-4F33-4E1A-82B7-7F9E9AD1565F}">
+  DTS:VersionBuild="8"
+  DTS:VersionGUID="{79E53B13-936A-4EA2-AB77-215A1583C1F7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABeZadLiBFfSxwSWrr6gP9/HL75TugDCveXXq9wsYiHHgAAAAAOgAAAAAIAACAAAAAcMAC9ThcTErQWrfO689XjL+5ervp54smXioPMCeQDMyAAAAAOMB0DXxaaAZVoQzKvJi0kxI3RSjaiO0+U4FIYrbMzckAAAADsmjXPeLZ910Os3aCE00mFvsJjFdcSMpwiv0OsYGCAllRPH9k300EQ1bZYZ048s+Vh2GgJx+xDFzHh0TMlBUha</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAx4uIIm33agwkPxAAKFX6trSbBcQ4fiYYtLceDALdSyAAAAAAOgAAAAAIAACAAAAAlzriyUzNk5ayInWNx10hmFvq/W4CuD99yCaCjD/bAVyAAAABuOctdYQdH0NkwITiCGaJOR3VDP6QqMkC30HEbl5tN0EAAAAC38t0LbbOCiAMik+dExi5JSaO94b+hDXiVqrF8JMHMh8UHiS7Yu5llpxMa6uMNDF4MnYqIZGmKtN8wjPjZwInr</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABgsjI5k7SirItdUqSjGqAwkI4IN2AtAmw1FAbWk69k7QAAAAAOgAAAAAIAACAAAAALQxuOsYfOMn0t6w5vuzmyumYibgHMGgWa0VE7adT/7CAAAAAq8Xsg+8xwDSzBYR9R+XUZihgmGnmnmmSI1ad5+gsn40AAAADvE6SelsU1L+cUKR+3+yfSmUJV6i2UkRyU3brr/Gd4NmK2o+qyXkucHXct/V6FPMGqVpQQBW6oq4QjSlCL9ZC+</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADBsss4O8F/0T0nhC5gHZne6D8SkTM0CNpZbNRyecZL6QAAAAAOgAAAAAIAACAAAAAM8rfDzd95+ppBu/8a58MkIp0xfjQFuJDx0KeOd9FwXSAAAAAQx/CFsVyiGT4A/BQJDIAzEbLRm/uj1euAor5ft+fr9UAAAABbSYleVWyRoWFR0XlYKy9xQPclg5RgpBgu85HnS2NtlA2UeFDyJO0FyrRMkpvKwCU0ChH0FZlezshfF3MMoxuf</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACmj6sTWhZckIPzvuGdWU9AeHbRqOKchT43BF9z+hVKxQAAAAAOgAAAAAIAACAAAAAYg/IBekbwktgHP4qcBqor1t5WhfX4shrWB1gFheRFNSAAAADrxLtXEbFxL/xv9W/TmFfKznUmE+mJBso06pEiS0ZH3kAAAADqETPo6Lb9sFqOrA3xzosLWXqGLbJQchcFAk88h7drgJH8HfShaiVFYZV0lFRJAVqJ+msM+L3ZUM6oYCEKXtnG</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABiYvyTODHZEyfXKSBfPVlnXEL0Qsl3b8rqga+YLRv+5gAAAAAOgAAAAAIAACAAAABdnrIvIPrP02ERg2s25GYISnRpfMoqDjMQeIva6Cuz7SAAAADG+MWw931KQNM9mI1Qe/KjRrHBln5q4o8blELVwv6rX0AAAAD/v/PlpuadikzbcgjYwkDDKXV4pE3jszyTZuNDQeN34uPwF8P8FiJrJ/UyiPIsCfqxFPIA8DbRhYSs7W1QVW0V</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8LLfzBTw5FvGERobdmr8NlQIafedpC1cVTGy2izhFbwAAAAAOgAAAAAIAACAAAACx5Rs8KD2E50oX4OTfMYfximms9w+wLTY4b4appBjYPSAAAADYP5p9qnZPKydT49x7t1/Ho3QNgmKtnyddmqthoWRCwUAAAAADalBCsIfD2+Lr8QwUNEBLh/XHrLWgsnpYakaocIfmZmpQdQlHT5VMJ0Eab56Guox1ID1oSDtqESh4GbB6DSW3</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAip99TDsrekerKN8i5TAruQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAALHLy4NX6v1BApy+3nvOaD/7eFdoJQ0lEdQVVi5/tvdwAAAAAOgAAAAAIAACAAAAAzVoDH11KWBq1Eso32qlrZxGqEXh/wJ1PXbnaaG8mg+SAAAADyGe0NNochbFjgsQZJmkxuZw4X2I6fKwp8qamHbewFZEAAAABSHZ5rh51iWvbs1jjN7xYo6kbSIVZtlfR0RKJZCO6epRvPzJO7Y7kbwctSI8RzYlgRWzWQctv5uZtMPjK09aJf</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -143,7 +143,7 @@
                       dataType="wstr"
                       errorOrTruncationOperation="Cálculo"
                       errorRowDisposition="FailComponent"
-                      length="511"
+                      length="255"
                       lineageId="Package\Tarea Clientes\Columna derivada.Outputs[Salida de columna derivada].Columns[NOMBRE_COMPLETO]"
                       name="NOMBRE_COMPLETO"
                       truncationRowDisposition="FailComponent">
@@ -152,13 +152,13 @@
                           containsID="true"
                           dataType="System.String"
                           description="Expresión de columna derivada"
-                          name="Expression">#{Package\Tarea Clientes\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NOMBRE]} + " " + #{Package\Tarea Clientes\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[APELLIDO]}</property>
+                          name="Expression">[RIGHT]((#{Package\Tarea Clientes\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[NOMBRE]} + " " + #{Package\Tarea Clientes\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[APELLIDO]}),255)</property>
                         <property
                           containsID="true"
                           dataType="System.String"
                           description="Expresión descriptiva de columna derivada"
                           expressionType="Notify"
-                          name="FriendlyExpression">NOMBRE + " " + APELLIDO</property>
+                          name="FriendlyExpression">RIGHT((NOMBRE + " " + APELLIDO),255)</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
@@ -262,13 +262,6 @@
                   name="Entrada de destino de OLE DB">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Tarea Clientes\Destino de OLE DB.Inputs[Entrada de destino de OLE DB].Columns[ID_CLIENTE]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="ID_CLIENTE"
-                      externalMetadataColumnId="Package\Tarea Clientes\Destino de OLE DB.Inputs[Entrada de destino de OLE DB].ExternalColumns[ID_CLIENTE]"
-                      lineageId="Package\Tarea Clientes\Origen de OLE DB.Outputs[Salida de origen de OLE DB].Columns[ID_CLIENTE]" />
-                    <inputColumn
                       refId="Package\Tarea Clientes\Destino de OLE DB.Inputs[Entrada de destino de OLE DB].Columns[NRO]"
                       cachedDataType="i2"
                       cachedName="NRO"
@@ -277,7 +270,7 @@
                     <inputColumn
                       refId="Package\Tarea Clientes\Destino de OLE DB.Inputs[Entrada de destino de OLE DB].Columns[NOMBRE_COMPLETO]"
                       cachedDataType="wstr"
-                      cachedLength="511"
+                      cachedLength="255"
                       cachedName="NOMBRE_COMPLETO"
                       externalMetadataColumnId="Package\Tarea Clientes\Destino de OLE DB.Inputs[Entrada de destino de OLE DB].ExternalColumns[Desc_NOMBRE]"
                       lineageId="Package\Tarea Clientes\Columna derivada.Outputs[Salida de columna derivada].Columns[NOMBRE_COMPLETO]" />
@@ -1070,9 +1063,9 @@
           Id="Package\Tarea Clientes"
           TopLeft="237,104" />
         <NodeLayout
-          Size="176,42"
+          Size="156,42"
           Id="Package\Tarea Productos"
-          TopLeft="46,108" />
+          TopLeft="50,112" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -1081,6 +1074,10 @@
     <LayoutInfo>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="168,42"
+          Id="Package\Tarea Clientes\Destino de OLE DB"
+          TopLeft="76,201" />
         <NodeLayout
           Size="164,42"
           Id="Package\Tarea Clientes\Origen de OLE DB"
@@ -1123,10 +1120,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="168,42"
-          Id="Package\Tarea Clientes\Destino de OLE DB"
-          TopLeft="76,201" />
         <EdgeLayout
           Id="Package\Tarea Clientes.Paths[Salida de columna derivada]"
           TopLeft="72,178.666666666667">
@@ -1165,7 +1158,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Tarea Clientes\Origen de OLE DB">
+    design-time-name="Package\Tarea Clientes\Destino de OLE DB">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -1178,7 +1171,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Tarea Clientes\Destino de OLE DB">
+    design-time-name="Package\Tarea Clientes\Origen de OLE DB">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
