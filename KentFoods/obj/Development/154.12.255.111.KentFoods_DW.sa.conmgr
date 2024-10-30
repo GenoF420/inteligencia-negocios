@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="154.12.255.111.KentFoods_DW.sa"
+  DTS:DTSID="{9478CDF1-90A6-4A3B-945D-0CFE4668C538}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=154.12.255.111;User ID=sa;Initial Catalog=KentFoods_DW;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-Package-{9478CDF1-90A6-4A3B-945D-0CFE4668C538}154.12.255.111.KentFoods_DW.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoI6/+p7lE0em6Of2+6OCPgAAAAACAAAAAAAQZgAAAAEAACAAAAD1FW85Y9Ieh8a6TKMuT9OBW16ieHSgqtgCB3E8/nORuwAAAAAOgAAAAAIAACAAAAA0B9H8NKVsGUPoArojK4vQyDDrmy/M+ugK5OEpyjkSOoAAAACdwoafwFIrE4lbeIS5h2Rzy63s0xwEHuMyH9UAVTG/2uHYkr7dtpJAMGedBjvGIA7JGUnPxPYzXK4rEiuOxhCL4qkgB/aWvw6TIXWh81/2wLIe12XcGVvZRSBi/ux/6ppOQ7vS4yIuqEnbpPm3ZdduQHzgGRi09+uKpRQfvkPsq0AAAADMWoHkAqpC9oo9MFwW0WHgNQqtdQ16BhMZdweFErbxfu5l4F1gfG8dQPSWvhe8hXccHzQ2Pv98if6/uA1R9Dtn</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
